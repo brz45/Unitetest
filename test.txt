@@ -1,0 +1,13 @@
+import org.junit.jupiter.api.Test;
+class DiceBagTest {
+ @Test
+void test() {
+System.out.println("Dicebag class runs");
+ }
+void test2() {
+System.out.println("Dicebag class runs for the second time");
+}
+void test3() {
+ System.out.println("Dicebag class runs for the third time");
+}
+}
